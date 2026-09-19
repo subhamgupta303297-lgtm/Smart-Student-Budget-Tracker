@@ -18,4 +18,4 @@ Managing pocket money and daily hostel/college expenses (mess, commute, books) i
 ## 💻 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/Smart-Student-Budget-Tracker.git](https://github.com/your-username/Smart-Student-Budget-Tracker.git)
+   git clone [https://github.com/git clone https://github.com/subhamgupta303297-lgtm/Smart-Student-Budget-Tracker.git/Smart-Student-Budget-Tracker.git](https://github.com/your-username/Smart-Student-Budget-Tracker.git)
